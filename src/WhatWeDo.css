@@ -1,0 +1,77 @@
+.what-we-do {
+    padding: 80px 20px;
+    text-align: center;
+    background-color: #0A0C1B;
+  }
+  
+  .what-we-do h2 {
+    font-size: 36px;
+    margin-bottom: 40px;
+    color: #ffffff;
+  }
+  
+  .what-we-do-grid {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .what-we-do-card {
+    background-color: #1A1C2B;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 10px;
+    width: 28%;
+    text-align: left;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+  }
+  
+  .what-we-do-card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .what-we-do-card img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .what-we-do-card h3 {
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #00D084;
+  }
+  
+  .what-we-do-card p {
+    font-size: 16px;
+    color: #aaa;
+  }
+.flex-row{
+  display: flex;
+  flex-direction: row;
+}
+.flex-col{
+  display:flex;
+  flex-direction: column;
+}
+  
+.borders{
+  border: 2px solid lightskyblue;
+  border-radius: 1rem;
+}
+
+.measure1{
+  width:20rem;
+  margin-right: 5rem;
+}
+
+.measure2{
+  width:20rem;
+}
+
+.total{
+  text-align: center;
+  align-items: center;
+  margin-left: 20rem;
+}

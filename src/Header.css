@@ -1,0 +1,39 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #000814;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+  }
+  
+  .navbar a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .auth-buttons .login-btn, .signup-btn {
+    margin-left: 15px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .login-btn {
+    background-color: transparent;
+    color: white;
+    border: 1px solid lightskyblue;
+  }
+  
+  .signup-btn {
+    background-color: lightskyblue;
+    color: black;
+    border-radius: 0.5rem;
+  }
+  

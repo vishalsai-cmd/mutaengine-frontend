@@ -1,0 +1,65 @@
+.who-we-are {
+    padding: 80px 20px;
+    text-align: center;
+    background-color: #101223;
+  }
+  
+  .who-we-are h2 {
+    font-size: 36px;
+    margin-bottom: 40px;
+    color: #ffffff;
+  }
+  
+  .who-we-are-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .who-we-are img {
+    width: 40%;
+    border-radius: 10px;
+    margin-right: 40px;
+  }
+  
+  .who-we-are-text {
+    max-width: 50%;
+    text-align: left;
+  }
+  
+  .who-we-are h3 {
+    font-size: 28px;
+    color: #00D084;
+    margin-bottom: 20px;
+  }
+  
+  .who-we-are p {
+    font-size: 16px;
+    color: #aaa;
+  }
+  
+  .learn-more-btn {
+    padding: 10px 30px;
+    background-color: #00D084;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    color: white;
+    transition: background-color 0.3s ease;
+  }
+  
+  .learn-more-btn:hover {
+    background-color: #00C06C;
+  }
+
+  .flex-row{
+    display: flex;
+    flex-direction: row;
+  }
+
+  .borders{
+    border: 2px solid lightskyblue;
+    border-radius: 1rem;
+  }
+      

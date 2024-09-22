@@ -1,0 +1,23 @@
+.flex-row{
+    display: flex;
+    direction: row;
+}
+.flex-col{
+    display:flex;
+    direction:column;
+}
+.get-started-btn{
+    background-color: lightskyblue;
+    color: black;
+    border-radius: 0.5rem;
+    width:5rem;
+}
+.pos1{
+    width:20rem;
+    margin-left:20rem;
+    margin-right:10rem;
+}
+
+.pos2{
+    width:20rem;
+}
