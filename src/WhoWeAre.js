@@ -1,6 +1,5 @@
 import React from 'react';
 import './WhoWeAre.css'; 
-import './3d-internet-secuirty-badge 2.png'
 
 function WhoWeAre() {
   return (

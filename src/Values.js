@@ -1,6 +1,4 @@
 import React from 'react';
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faMugHot } from '@fortawesome/free-solid-svg-icons';
 import './Values.css';
 
 function Values() {
@@ -14,7 +12,6 @@ function Values() {
       </div>
       <div className='flex-col pos1'>
         <div>
-            <FontAwesomeIcon icon="fa-solid fa-star" />
             <h3>innovation</h3>
             <p>We are committed to pushing the boundaries of what’s possible in software security. Our team constantly explores new technologies and methodologies to keep our solutions at the forefront of the industry.</p>
         </div>

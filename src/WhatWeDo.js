@@ -1,5 +1,5 @@
 import React from 'react';
-import './WhatWeDo.css'; // Custom styling for what we do section
+import './WhatWeDo.css'; 
 
 function WhatWeDo() {
   return (

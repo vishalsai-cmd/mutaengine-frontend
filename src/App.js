@@ -10,7 +10,6 @@ import FeaturesSection2 from './components/FeaturesSection2';
 import FeaturesSection3 from './components/FeaturesSection3';
 import './App.css';
 import About from "./About";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
@@ -28,11 +27,6 @@ function App() {
       <br />
       <br />
       <h1>About page</h1>
-{/*       <Router>
-      <Routes>
-        <Route exact path='/About' element={<About />} />
-      </Routes> 
-      </Router> */}
       <About></About>
     </div>
   );

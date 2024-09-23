@@ -6,10 +6,10 @@ function Header() {
     <header className="header">
       <div className="logo">MUTA</div>
       <nav className="navbar">
-        <a href="#">Overview</a>
-        <a href="#">Assets</a>
-        <a href="#">Contact Us</a>
-        <a href="#">Solutions</a>
+        <p>Overview</p>
+        <p>Assets</p>
+        <p>Contact Us</p>
+        <p>Solutions</p>
       </nav>
       <div className="auth-buttons">
         <button className="login-btn">Login</button>
