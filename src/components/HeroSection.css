@@ -1,0 +1,54 @@
+.hero-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 4rem 2rem;
+    background-color: #0d1117;
+  }
+  
+  .hero-content {
+    max-width: 50%;
+    text-align: left;
+  }
+  
+  .hero-content h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .hero-content p {
+    font-size: 1.2rem;
+    color: #8b949e;
+    margin-bottom: 2rem;
+  }
+  
+  .cta-buttons {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .cta-buttons button {
+    padding: 0.8rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .learn-more-btn1 {
+    background-color: transparent;
+    color: rgba(62, 213, 221, 1);
+    border: 1px solid rgba(62, 213, 221, 1);
+  }
+  
+  .start-now-btn {
+    background-color: rgba(62, 213, 221, 1);
+    color: #fff;
+  }
+  
+  .hero-visual img {
+    max-width: 100%;
+    height: auto;
+  }
+  .dynamic{
+    color:rgba(62, 213, 221, 1);
+  }
+  

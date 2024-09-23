@@ -1,0 +1,42 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #161b22;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  
+  .header .logo {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  .header nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+  }
+  
+  .header nav ul li a {
+    text-decoration: none;
+    color: #c9d1d9;
+    font-size: 1rem;
+  }
+  
+  .auth-buttons button {
+    margin-left: 1rem;
+    padding: 0.5rem 1rem;
+    background-color:rgba(62, 213, 221, 1);
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+  }
+  
+  .auth-buttons .signup-btn {
+    background-color: rgba(62, 213, 221, 1);
+  }
+  

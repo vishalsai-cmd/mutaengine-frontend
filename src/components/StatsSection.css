@@ -1,0 +1,27 @@
+.stats-section {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    padding: 3rem 0;
+    background-color: #161b22;
+  }
+  
+  .stat-item h3 {
+    font-size: 2.5rem;
+    color: rgba(62, 213, 221, 1);
+  }
+  
+  .stat-item p {
+    font-size: 1.1rem;
+    color: #8b949e;
+  }
+
+  .flex-row{
+    display:flex;
+    flex-direction:row;
+  }
+  .flex-col{
+    display:flex;
+    flex-direction:column;
+  }
+  

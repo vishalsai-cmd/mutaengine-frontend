@@ -1,0 +1,31 @@
+.cta-section {
+    padding: 4rem 2rem;
+    background-color: #0d1117;
+    text-align: center;
+    background-color: rgb(109,109,109,1);
+    width:80%;
+    margin: auto;
+    align-items: center;
+    border-radius: 2rem;
+    height:10rem;
+  }
+  
+  .cta-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .cta-section p {
+    font-size: 1.2rem;
+    color: #8b949e;
+    margin-bottom: 2rem;
+  }
+  
+  .start-now-btn {
+    background-color: rgba(62, 213, 221, 1);
+    color: #fff;
+    padding: 0.8rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+  }
+  

@@ -1,12 +1,12 @@
-.flex-row{
+.flex-row1{
     display: flex;
     direction: row;
 }
-.flex-col{
+.flex-col1{
     display:flex;
     direction:column;
 }
-.get-started-btn{
+.get-started-btn1{
     background-color:rgba(62, 213, 221, 1);
     color: white;
     border: 1px solid rgba(62, 213, 221, 1);
@@ -14,7 +14,7 @@
     border-radius: 5px;
     width:10rem;
 }
-.pos1{
+.pos11{
     max-width: 50%;
     text-align: left;
     margin-left:2rem;

@@ -12,7 +12,7 @@ function Values() {
         <p>We are driven by innovation, integrity, excellence, and a customer-centric approach to deliver unparalleled software security solutions.</p>
         <button className="get-started-btn">get started</button>
       </div>
-      <div className='flex-col pos2'>
+      <div className='flex-col pos1'>
         <div>
             <FontAwesomeIcon icon="fa-solid fa-star" />
             <h3>innovation</h3>

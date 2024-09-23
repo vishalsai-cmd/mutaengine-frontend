@@ -1,0 +1,33 @@
+/* Footer.css */
+.footer {
+    padding: 2rem;
+    background-color: #161b22;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .footer-links {
+    display: flex;
+    gap: 2rem;
+  }
+  
+  .footer-links a {
+    color: #8b949e;
+    text-decoration: none;
+  }
+  
+  .footer-links a:hover {
+    color: rgba(62, 213, 221, 1);
+  }
+  
+  .social-icons {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .social-icons a {
+    color: #8b949e;
+    font-size: 1.5rem;
+  }
+  

@@ -1,0 +1,39 @@
+.code-feature-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4rem 2rem;
+    background-color: #0d1117;
+  }
+  
+  .code-example1 img{
+    max-width: 100%;
+    height: auto;
+    margin-left: 25rem;
+    border-radius: 1rem;
+  }
+  
+  .feature-description {
+    max-width: 50%;
+    text-align: left;
+  }
+  
+  .feature-description h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .feature-description p {
+    font-size: 1.2rem;
+    color: #8b949e;
+    margin-bottom: 2rem;
+  }
+  
+  .learn-more-btn {
+    background-color: transparent;
+    color: rgba(62, 213, 221, 1);
+    border: 1px solid rgba(62, 213, 221, 1);
+    padding: 0.8rem 1.5rem;
+    border-radius: 5px;
+  }
+  
