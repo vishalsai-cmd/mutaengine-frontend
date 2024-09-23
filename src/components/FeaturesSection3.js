@@ -1,6 +1,4 @@
 import React from 'react';
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faMugHot } from '@fortawesome/free-solid-svg-icons';
 import './FeaturesSection3.css';
 
 function Values() {
@@ -18,7 +16,6 @@ function Values() {
       </div>
       <div className='flex-col pos11'>
         <div>
-            <FontAwesomeIcon icon="fa-solid fa-star" />
             <h3>Polymorphic code</h3>
             <p>MutaEngine constantly mutates your
             software's code in real time, making it nearly
